@@ -22,8 +22,6 @@ Map your mind
 
 [Practice examples of Pseudocode](https://www.youtube.com/watch?v=preyTbKXDoQ&t=657s&ab_channel=MrBrownCS)
 
-[More practice examples](https://computersciencewiki.org/images/e/ea/Pseudo_Code_Practice_Problems.pdf)
-
 Owning your Learning
 
 [The Feynman Learning technique](https://fs.blog/feynman-learning-technique/)
