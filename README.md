@@ -24,6 +24,8 @@ Map your mind
 
 [More practice examples](https://computersciencewiki.org/images/e/ea/Pseudo_Code_Practice_Problems.pdf)
 
+Owning your Learning
+
 [The Feynman Learning technique](https://fs.blog/feynman-learning-technique/)
 
 [How I tackle projects at ALX (Learn from Firdaus Salim)](https://medium.com/alx-africa/how-i-tackle-my-software-engineering-projects-at-alx-610f3f5a6448)
@@ -31,6 +33,8 @@ Map your mind
 [Focus and diffuse mode of thinking watch](https://www.youtube.com/watch?v=WTr12dK2Se0&ab_channel=Sprouts)
 
 [Focus and diffuse mode of thinking read](https://www.brainscape.com/academy/focused-vs-diffuse-thinking-learning/)
+
+Preserving your mental health & Conquering imposter syndrome
 
 [what is imposter syndrome and how can we combat it](https://www.youtube.com/watch?v=ZQUxL4Jm1Lo)
 
